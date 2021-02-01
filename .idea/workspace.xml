@@ -5,6 +5,9 @@
       <config />
     </shared>
   </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="f52adf29-87ae-4c94-b27f-2f94f2634c93" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -124,6 +127,22 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834/-1920.-109.1920.1050@0.0.1536.834" timestamp="1612201056207" />
+    <state width="1491" height="22" key="GridCell.Tab.0.bottom" timestamp="1612206608537">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1491" height="22" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1612206608537" />
+    <state width="1491" height="22" key="GridCell.Tab.0.center" timestamp="1612206608537">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1491" height="22" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1612206608537" />
+    <state width="1491" height="22" key="GridCell.Tab.0.left" timestamp="1612206608536">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1491" height="22" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1612206608536" />
+    <state width="1491" height="22" key="GridCell.Tab.0.right" timestamp="1612206608537">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1491" height="22" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1612206608537" />
     <state x="349" y="160" key="IDE.errors.dialog" timestamp="1612201011325">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -132,5 +151,9 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="277" y="62" key="SettingsEditor/0.0.1536.834/-1920.-109.1920.1050@0.0.1536.834" timestamp="1612200991683" />
+    <state x="586" y="214" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1612205613879">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="586" y="214" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1612205613879" />
   </component>
 </project>
